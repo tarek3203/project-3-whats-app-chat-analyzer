@@ -1,0 +1,5 @@
+streamlit
+urlextract
+wordcloud
+pandas
+emoji==1.7.0
